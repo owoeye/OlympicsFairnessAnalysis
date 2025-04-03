@@ -17,6 +17,6 @@ This repository explores gender and economic disparities in the Olympic Games fr
 
 ## Tools Used
 1. Excel
-2. POwerPoint
+2. PowerPoint
 
 Contributions and discussions are welcome!
