@@ -15,4 +15,8 @@ This repository explores gender and economic disparities in the Olympic Games fr
 
 3. Review conclusions and recommendations for a fairer Olympic competition
 
+## Tools Used
+1. Excel
+2. POwerPoint
+
 Contributions and discussions are welcome!
